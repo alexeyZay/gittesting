@@ -1,0 +1,11 @@
+Hello world
+updated first time before the first commit
+updated one moretime
+good bye!
+bug fixed
+updated by user 1
+another line added by user1 
+changes in master branch updated
+another changes by user 2 or1
+test2
+test1232
